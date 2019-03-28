@@ -1,6 +1,6 @@
 # Enter your twitter api keys below
 
-access_token=""
-access_token_secret=""
-consumer_key=""
-consumer_key_secret=""
+access_token="1111131670642487297-pe513WgIKuUMJfCMUPd1BvorFRWzC0"
+access_token_secret="Z1QkpSKypaNjdlv2pTqD3ORIBPi21mtWiGPdqhEMF7qVM"
+consumer_key="rAT5GKk05Vm1QerThrXKB1xqN"
+consumer_key_secret="uamZ5krnC5QeroxcljdvsuQEUR2AMol2TZu8hlvsVVnxdxR0CP"
